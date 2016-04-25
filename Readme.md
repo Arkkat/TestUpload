@@ -1,5 +1,2 @@
-Git Upload ex
+Commit ex
 This
-
-
-asdasaffs
